@@ -1,0 +1,18 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="GameManager">
+			<method name="GameStart"/>
+			<method name="ReStart"/>
+		</type>
+		<type fullname="Shop">
+			<method name="Buy"/>
+			<method name="Buy"/>
+			<method name="Buy"/>
+			<method name="Buy"/>
+			<method name="Buy"/>
+			<method name="Buy"/>
+			<method name="Exit"/>
+			<method name="Exit"/>
+		</type>
+	</assembly>
+</linker>
